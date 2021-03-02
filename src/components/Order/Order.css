@@ -1,0 +1,38 @@
+.Order {
+    width: 98%;
+    border: 1px solid #eee;
+    box-shadow: 0 2px 3px #ccc;
+    box-sizing: border-box;
+    padding-inline: 10px;
+    margin: 10px auto;
+}
+
+.Span {
+    text-transform: capitalize;
+    display: inline-block;
+    margin: 5px 5px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    padding: 5px;
+}
+
+.bacon {
+    border: 2px solid #bf3813;
+}
+.cheese {
+    border: 2px solid #f4d004;
+}
+.meat {
+    border: 2px solid #7f3608;
+}
+.salad {
+    border: 2px solid #91ce50;
+}
+
+.Ingredients {
+    margin-block: 5px;
+}
+
+.Price {
+    margin-block: 10px;
+}
